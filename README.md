@@ -24,6 +24,7 @@ go
 
 <br />
 <br />
+
 ## 2. Ejemplo
 
 ```sql
